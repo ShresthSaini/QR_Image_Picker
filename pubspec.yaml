@@ -1,6 +1,6 @@
-name: perfect_scanner
+name: qr_image_picker
 description: Easy to use qr code scanner thats uses google ml kit for for image processing and camera for reading the qr.
-version: 0.0.1
+version: 1.0.0
 homepage: null
 
 environment:

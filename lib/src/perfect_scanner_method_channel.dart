@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:perfect_scanner/src/const.dart';
+import 'package:qr_image_picker/src/const.dart';
 
 class MethodChannelPerfectScanner {
   @visibleForTesting

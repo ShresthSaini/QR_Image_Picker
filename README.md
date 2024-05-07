@@ -1,4 +1,4 @@
-# perfect_scanner
+# QR_IMAGE_PICKER
 
 scan qrcode in widget tree.
 
@@ -29,7 +29,7 @@ info.list
 ```
 
 ```yaml
-perfect_scanner: ^newest
+qr_image_picker: ^newest
 ```
 
 ```dart

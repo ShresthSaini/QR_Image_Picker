@@ -2,7 +2,7 @@ import 'dart:developer';
 import 'package:camera/camera.dart';
 import 'package:google_mlkit_barcode_scanning/google_mlkit_barcode_scanning.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:perfect_scanner/src/image_handler.dart';
+import 'package:qr_image_picker/src/image_handler.dart';
 
 class ScannerController {
   static bool _flash = false;

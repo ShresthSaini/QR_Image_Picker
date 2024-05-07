@@ -1,6 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:perfect_scanner/src/perfect_scanner_method_channel.dart';
+import 'package:qr_image_picker/src/perfect_scanner_method_channel.dart';
+
 
 void main() {
   MethodChannelPerfectScanner platform = MethodChannelPerfectScanner();

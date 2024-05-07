@@ -1,4 +1,4 @@
-# perfect_scanner_example
+# qr_image_picker_example
 
 Demonstrates how to use the perfect_scanner plugin.
 

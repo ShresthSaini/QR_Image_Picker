@@ -2,8 +2,8 @@ import 'package:camera/camera.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mlkit_barcode_scanning/google_mlkit_barcode_scanning.dart';
-import 'package:perfect_scanner/src/image_handler.dart';
-import 'package:perfect_scanner/src/scanner_controller.dart';
+import 'package:qr_image_picker/src/image_handler.dart';
+import 'package:qr_image_picker/src/scanner_controller.dart';
 import 'overlay.dart';
 
 /// Widget for scanner.
